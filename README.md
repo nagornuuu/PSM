@@ -1,2 +1,2 @@
 # PSM
-Exercises from PSM(PJATK)
+Exercises from PSM(Podstawy symulacji komputerowych)
